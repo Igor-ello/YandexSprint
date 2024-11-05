@@ -1,0 +1,2 @@
+Ссылка на Фигму: https://www.figma.com/design/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503-0&node-type=canvas&t=APsSe7SQpDhkB8I6-0
+Ссылка на проект: https://github.com/Igor-ello/YandexSprint/tree/main/ThirdSprint
