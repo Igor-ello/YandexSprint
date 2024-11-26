@@ -2,10 +2,11 @@
 const cardTemplate = document.querySelector('#card-template').content;
 
 /* DOM узлы */
+// Контейнер, куда будут добавляться карточки
 const placesList = document.querySelector('.places__list');
+
 const profileTitle = document.querySelector('.profile__title');
 const profileDescription = document.querySelector('.profile__description');
-
 const profilePopup = document.querySelector('.popup_type_edit');
 const profileFormElement = profilePopup.querySelector('.popup__form');
 const nameInput = profileFormElement.querySelector('.popup__input_type_name');
